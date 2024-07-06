@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.old;
 
 import java.util.Map;
 import java.util.TreeMap;
